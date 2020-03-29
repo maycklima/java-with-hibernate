@@ -19,7 +19,7 @@ public class Teste {
 
     public static void main(String[] args) {
 
-        System.out.println("Arroz");
+        //System.out.println("Arrozera"); Comentantoo código de imprimir
         /*
         Usuario u = new Usuario();
 
